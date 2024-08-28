@@ -7,11 +7,12 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,react,flutter,scss,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,python,git,gitlab,godot,blender" /><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,python,dart,git,gitlab,godot,blender" /><br>
 </div>
 
 <h1>📊 GitHub Stats:</h1>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artemo01&theme=dark&hide_border=false" /> <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artemo01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artemo01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
